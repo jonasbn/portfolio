@@ -2,7 +2,7 @@
 
 ### Education
 
-Master of Data Science, Univeristy of Rhode Island - In Progress 
+Master of Data Science, University of Rhode Island - In Progress 
 
 Ph.D, Mathematics.  Bowling Green State University, 2014
 
