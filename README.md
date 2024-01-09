@@ -1,5 +1,6 @@
-# Associate Professor of Mathematics 
-## Education
+#Mathematician
+
+### Education
 
 Master of Data Science, Univeristy of Rhode Island - In Progress 
 
