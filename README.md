@@ -10,4 +10,6 @@ M.A., Mathematics. Bowling Green State Univeristy, 2009
 
 ### Experience
 
-Associate Professor of Mathematics - Rhode Island College
+Associate Professor of Mathematics - Rhode Island College, since 2014
+
+Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 2023
