@@ -1,4 +1,4 @@
-# Mathematician
+# Mathematician 
 I am Ph.D mathematician specialized in functional analysis and operator theory with a focus on the dynamics of linear operators on Hilbert Spaces.  
 
 Over the last few years I have shifted my focus to the study of data science and machine learning both in my teaching and scholarship.  
@@ -19,7 +19,7 @@ Associate Professor of Mathematics - Rhode Island College, since 2014
 
 Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 2023
 
-### Peer_Reviewed Publications
+### Peer-Reviewed Publications
 
 Burke, J., Burke, M., Pinheiro, L., & Richer, C. (2023). "Methods for counting the intersections of slopes in the flat torus." Transactions on Combinatorics (2023), -. doi: 10.22108/toc.2023.135546, 2023.
 
@@ -29,4 +29,3 @@ K.C. Chan, L. Pinheiro, “Simultaneous chaotic extensions for general operators
 
 K.C. Chan,  G.Kadel, L.Pinheiro, “Chaotic differentiation operators on harmonic functions and simple connectivity”, Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales: Matematicas, Serie A; Milan Vol. 109, Issue 2, pp. 385-393, 2015.
 
-#### Data Science Projects 
