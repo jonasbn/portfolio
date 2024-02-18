@@ -21,7 +21,7 @@ Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 202
 
 ### Publications
 
-Burke, J., Burke, M., Pinheiro, L., & Richer, C. (2023). "Methods for counting the intersections of slopes in the flat torus." Transactions on Combinatorics, (), -. doi: 10.22108/toc.2023.135546.2023
+Burke, J., Burke, M., Pinheiro, L., & Richer, C. (2023). "Methods for counting the intersections of slopes in the flat torus." Transactions on Combinatorics, (2023), -. doi: 10.22108/toc.2023.135546.2023
 
 J. Burke and L.Pinheiro, “Topologically mixing extensions of endomorphisms on Polish groups”, Appl. Gen. Topol., Vol. 23, no. 1, pp. 179–187, 2022.
 
