@@ -31,6 +31,5 @@ Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 202
 
 ### Data Science Projects
 
-[J. Lozada, L. Pinheiro. C.Thawley  "Predicting Charging Patterns of Electric Vehicles" (pre-print)]()
-)
+[J. Lozada, L. Pinheiro. C.Thawley  "Predicting Charging Patterns of Electric Vehicles" (pre-print)](https://github.com/lvpinheiro/portfolio/blob/main/lozadaPinheiroThawley.pdf)
 
