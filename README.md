@@ -25,7 +25,7 @@ Burke, J., Burke, M., Pinheiro, L., & Richer, C. (2023). "Methods for counting t
 
 J. Burke and L.Pinheiro, “Topologically mixing extensions of endomorphisms on Polish groups”, Appl. Gen. Topol., Vol. 23, no. 1, pp. 179–187, 2022.
 
-K.C. Chan, L. Pinheiro, “Simultaneous chaotic extensions for general operators on a Hilbert subspace”, Journal of Mathematical Analysis and Applications, Vol. 448, Issue 2, pp. 937-967 , 2017.
+K.C. Chan, L. Pinheiro, “Simultaneous chaotic extensions for general operators on a Hilbert subspace”, Journal of Mathematical Analysis and Applications, Vol. 448, Issue 2, pp. 937-967 , 2017.[https://www.sciencedirect.com/science/article/pii/S0022247X16307247]
 
 K.C. Chan,  G.Kadel, L.Pinheiro, “Chaotic differentiation operators on harmonic functions and simple connectivity”, Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales: Matematicas, Serie A; Milan Vol. 109, Issue 2, pp. 385-393, 2015.
 
