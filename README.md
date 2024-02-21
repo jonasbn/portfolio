@@ -18,7 +18,7 @@ B.Sc., Mathematics. Universidade Federal do Rio de Janeiro, 2002.
 
 ### Experience
 
-Associate Professor of Mathematics - Rhode Island College, 2019 - Presenset 
+Associate Professor of Mathematics - Rhode Island College, 2019 - Present. 
 
 Assistant Professor of Mathematics - Rhode Island College, 2014-2019
 
