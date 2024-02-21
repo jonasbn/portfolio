@@ -1,9 +1,10 @@
 # Mathematician 
-I am Ph.D mathematician specialized in functional analysis and operator theory with a focus on the dynamics of linear operators on Hilbert Spaces.  
+
+I am a Ph.D mathematician specialized in functional analysis and operator theory with a focus on the dynamics of linear operators on Hilbert Spaces.  
 
 Over the last few years I have shifted my focus to the study of data science and machine learning both in my teaching and scholarship.  
 
-I also have considerable experience in mathematical content creation having worked as a consultant for different publishers over the years.
+I  have considerable experience in mathematical content creation having worked as a consultant for different publishers over the years.
 
 ### Education
 
@@ -15,7 +16,9 @@ M.A., Mathematics. Bowling Green State Univeristy, 2009
 
 ### Experience
 
-Associate Professor of Mathematics - Rhode Island College, since 2014
+Associate Professor of Mathematics - Rhode Island College, 2019 - Presenset 
+
+Assistant Professor of Mathematics - Rhode Islad College, 2014-2019
 
 Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 2023
 
