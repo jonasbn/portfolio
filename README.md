@@ -8,7 +8,7 @@ I  have considerable experience in mathematical content creation having worked a
 
 ### Education
 
-Master of Data Science, University of Rhode Island - In Progress 
+M.Sc, Data Science. University of Rhode Island - In Progress 
 
 Ph.D, Mathematics.  Bowling Green State University, 2014.
 
