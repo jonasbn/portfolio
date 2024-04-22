@@ -4,7 +4,7 @@ I am a Ph.D mathematician specialized in functional analysis and operator theory
 
 Over the last few years, I have shifted my focus to the study of data science and machine learning in my teaching and scholarship.  
 
-I  have considerable experience in mathematical content creation having worked as a consultant for different publishers over the years.
+Additionally, I have extensive experience developing college level mathematical content for various publishers. 
 
 ### Education
 
