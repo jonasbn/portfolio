@@ -25,9 +25,10 @@ Assistant Professor of Mathematics - Rhode Island College, 2014-2019
 Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 2023
 
 ### Peer-Reviewed Publications
-(Authors in alphabetical order) 
 
 L. Pinheiro, N.Baxter, U. Perera, "Empirical error analysis in demographic variable approximation for non-standard geographical hierarchies"(preprint)
+
+(Authors in alphabetical order) 
 
 [J. Burke, M. Burke, L. Pinheiro, & C. Richer (2023). "Methods for counting the intersections of slopes in the flat torus." Transactions on Combinatorics (2023), -. doi: 10.22108/toc.2023.135546, 2023.](https://toc.ui.ac.ir/article_27773_5c824a257fe0d279edecdab4f38dbfe4.pdf)
 
