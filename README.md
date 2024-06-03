@@ -25,6 +25,7 @@ Assistant Professor of Mathematics - Rhode Island College, 2014-2019
 Visiting Researcher at Welltower, Inc. - Toledo, Oh.  August 2023 - December 2023
 
 ### Peer-Reviewed Publications
+(Authors in alphabetical order) 
 
 L. Pinheiro, N.Baxter, U. Perera, "Empirical error analysis in demographic variable approximation for non-standard geographical hierarchies"(preprint)
 
